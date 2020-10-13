@@ -1,7 +1,7 @@
-.error-message{
-    border:solid 2px red;
-}
-
-.lighter{
-    color:red;
-}
+.AddNote {
+    color: #dedede;
+  }
+  
+  .AddNote h2 {
+    margin-left: 16px;
+  }
